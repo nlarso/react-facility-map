@@ -1,5 +1,5 @@
 {
-  "name": "react_sitemap",
+  "name": "react_facility_map",
   "private": true,
   "dependencies": {
     "@rails/webpacker": "^3.3.0",
